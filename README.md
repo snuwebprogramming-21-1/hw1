@@ -5,6 +5,9 @@
 
 윈도우에서 기본으로 제공됬던 지뢰찾기를 웹으로 구현해본다.
 
+## 참고 코드
+https://codepen.io/twfzqzlq-the-sasster/pen/WNRZxmK
+
 ## 기능 명세
 
 * 최초 맵의 크기(x, y)와 지뢰의 개수(z)를 입력받는다. (5<= x,y <= 30, 0 <= z <= x * y
